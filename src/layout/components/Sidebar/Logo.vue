@@ -35,7 +35,7 @@ export default {
   },
   data() {
     return {
-      title: '茶壶管理系统',
+      title: '咖啡壶管理系统',
       logo: logoImg
     }
   }
